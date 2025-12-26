@@ -1,4 +1,5 @@
-# Image Style Transfer Project
+# Image Style Transfer Project 
+DOI: https://www.doi.org/10.56726/IRJMETS75399
 
 This project demonstrates image style transfer using deep learning techniques.
 
